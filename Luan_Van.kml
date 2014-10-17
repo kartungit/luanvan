@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Luan Van</name>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name></name>
+			<ExtendedData>
+				<Data name='tên'>
+					<value>Điểm 1</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[tên: Điểm 1]]></description>
+			<Point>
+				<coordinates>106.6113281,10.817119700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name></name>
+			<ExtendedData>
+				<Data name='tên'>
+					<value>Điểm 2</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[tên: Điểm 2]]></description>
+			<Point>
+				<coordinates>106.690979,10.804305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name></name>
+			<ExtendedData>
+				<Data name='tên'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[tên: ]]></description>
+			<Point>
+				<coordinates>106.625061,10.8434219,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1469'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1469-trans-walking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
