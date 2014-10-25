@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Luan Van</name>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Điểm 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.614933,10.8184686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Điểm 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.690979,10.804305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Hổ 1</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/vi/thumb/8/8c/Panthera_tigris_altaica_28_-_Buffalo_Zoo_(1).jpg/310px-Panthera_tigris_altaica_28_-_Buffalo_Zoo_(1).jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hổ]]></description>
+			<Point>
+				<coordinates>106.62686340000002,10.8407243,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name></name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.663599,10.8395442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Điểm 5</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.649437,10.8494913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
